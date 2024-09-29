@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "coca-cola",
+        "preco": 3.99,
+        "quantidade": 12
+    },
+    {
+        "nome": "fanta",
+        "preco": 3.79,
+        "quantidade": 12
+    },
+    {
+        "nome": "guarana antarctica",
+        "preco": 3.69,
+        "quantidade": 12
+    },
+    {
+        "nome": "bisc trakinas morango",
+        "preco": 2.99,
+        "quantidade": 54
+    },
+    {
+        "nome": "bisc trakinas chocolate",
+        "preco": 2.99,
+        "quantidade": 54
+    }
+]
